@@ -22,19 +22,7 @@
 
 ![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen)
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/priti-priyanka-dash-aba2b03a6) [
-
-![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/Priti-2003) [
-
-![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:bandanadash250@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priti-priyanka-dash-aba2b03a6) [![GitHub](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priti-2003) [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandanadash250@gmail.com)
 
 
 
